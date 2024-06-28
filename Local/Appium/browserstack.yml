@@ -1,0 +1,16 @@
+userName: BROWSERSTACK_USERNAME
+accessKey: BROWSERSTACK_ACCESS_KEY
+app: browserstack-demoapp (1).apk
+platforms:
+  - platformName: android
+    deviceName: Google Pixel 3
+    platformVersion: 9.0
+browserstackLocal: true
+browserStackLocalOptions:
+  forceLocal: true
+browserstackLocal: true
+acceptInsecureCerts: true
+networkProfile: 4g-lte-good
+percyCaptureMode: auto
+buildName: browserstack-build-2
+projectName: BrowserStack Sample

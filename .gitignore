@@ -1,0 +1,7 @@
+*.DS_Store
+*__pycache__
+*browserstack.err
+*log
+*node_modules
+*1-getting-started
+*2-advanced-examples
